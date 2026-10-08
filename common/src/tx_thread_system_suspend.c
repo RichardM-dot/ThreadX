@@ -1,3 +1,9 @@
+/*
+ * 【中文导读】tx_thread_system_suspend.c —— 线程挂起与调度决策（B级导读）
+ * 线程让出 CPU 时走这里：保存上下文、从就绪表摘除/插入、
+ * 选出下一个最高优先级线程。ThreadX 调度哲学的浓缩。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors

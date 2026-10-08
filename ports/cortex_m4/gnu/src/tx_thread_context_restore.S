@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】tx_thread_context_restore.S —— 上下文恢复汇编（必读！）
+ * 从新线程的栈里恢复 R4-R12、S16-S31，BX LR 跳回线程代码继续跑。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors

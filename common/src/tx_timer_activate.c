@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】tx_timer_activate.c —— 软件定时器激活（B级导读）
+ * 插入按到期排序的定时器链表，由系统定时器线程统一扫描触发。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors

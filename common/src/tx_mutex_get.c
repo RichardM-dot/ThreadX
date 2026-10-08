@@ -1,3 +1,9 @@
+/*
+ * 【中文导读】tx_mutex_get.c —— 互斥量获取（含优先级继承实现）
+ * ThreadX 优先级继承的经典实现所在：低优先级任务持锁时被高优先级任务等，
+ * 临时提升到等待者的最高优先级，释放时按原阈值恢复。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors

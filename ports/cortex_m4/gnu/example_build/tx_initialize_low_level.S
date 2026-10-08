@@ -1,3 +1,9 @@
+/*
+ * 【中文导读】tx_initialize_low_level.S —— 启动低级初始化（B级导读）
+ * 设中断向量表、SysTick 时基、时钟节拍中断优先级——移植 ThreadX 到
+ * 新板子时最先看的汇编（在 example_build 目录作为模板提供）。
+ */
+
 @/***************************************************************************
 @ * Copyright (c) 2024 Microsoft Corporation
 @ * Copyright (c) 2026-present Eclipse ThreadX contributors

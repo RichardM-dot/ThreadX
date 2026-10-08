@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】tx_semaphore_get.c —— 信号量获取（B级导读）
+ * 计数减一/为零可等待。对照 mutex 看清"信号量无继承、互斥量有"。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors

@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】tx_queue_send.c —— 消息队列入队（B级导读）
+ * 定长消息拷贝进环形区，满则阻塞/直接返回由调用参数决定。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors

@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】tx_thread_system_preempt_check.c —— 抢占检查（B级导读）
+ * 中断里唤醒更高优先级线程时，请求一次调度切换的入口。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors

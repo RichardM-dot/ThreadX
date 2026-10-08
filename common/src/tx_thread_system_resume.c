@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】tx_thread_system_resume.c —— 线程恢复就绪（B级导读）
+ * 线程进入就绪表+优先级位图置位，可能触发抢占检查。
+ */
+
 /***************************************************************************
  * Copyright (c) 2024 Microsoft Corporation
  * Copyright (c) 2026-present Eclipse ThreadX contributors
